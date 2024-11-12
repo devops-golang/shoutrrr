@@ -1,0 +1,1 @@
+GOPROXY=proxy.golang.org go list -m github.com/devops-golang/shoutrrr
